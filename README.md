@@ -6,10 +6,16 @@ After completing my bachelor's of engineering, I started my career as an AutoCAD
 ### Highly Available and Fault Tolerant Wordpress
 
 > Used **LAMP** (Linux, Apache, Mysql, PHP)
+> 
 > With cloud platform **AWS**
+> 
 > Configured Security groups and environment
+> 
 > Configured **EC2** Auto-scaling for fault tolerance
+> 
 > Configured **EC2** Load balancing for highly availability
+> 
 > **EFS** for wp-data
+> 
 > Used **ACM** for SSL
 
